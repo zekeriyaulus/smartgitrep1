@@ -4,3 +4,4 @@
 24.02.2023 11:31 firmen  rechner wo oracleforms instaliert ist
 24.02.2023 12:08 firmen  rechner wo oracleforms instaliert ist
 24.02.2023 13:38 firmen  rechner wo oracleforms instaliert ist
+24.02.2023 13:29 private rechner
