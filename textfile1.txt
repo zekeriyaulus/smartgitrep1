@@ -1,1 +1,2 @@
 textfile1.txt file angelget am 09.03.2023 in C:\Test\smartgitrep2
+texr änderung in smartgitrep2 09.03.2023 14:49
